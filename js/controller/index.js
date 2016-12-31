@@ -13,7 +13,7 @@ $(document).ready(function () {
 // http://stackoverflow.com/questions/20087627/how-to-create-separate-angularjs-controller-files
 // https://docs.angularjs.org/api/ng/directive/ngApp
 
-angular.module('VideoClubApp').controller('VideoClubController', ['$scope', '$http', function($scope, $http){
+angular.module('VideoClubApp').controller('VideoClubController', ['$scope', '$window', function($scope, $window){
 
 //  app.controller("VideoClubController", function($scope) {
     // Controller properties

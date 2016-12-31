@@ -1,6 +1,9 @@
 # dawm6-videoclub-angularjs
 DAWM6 VideoClub AngularJS is a schoolar project to introduce AngularJS framework.
 
+# Demo
+https://rusben.github.io/dawm6-videoclub-angularjs/
+
 # The project
 
 The app is divided in different controllers, each defined in a separated file.
@@ -19,7 +22,7 @@ The user chooses the type of film to add and the number of films to add, then th
 
 There is no server side implemented. 
 
-The server data is hardcoded when the applications starts.
+The server data is hardcoded when the application starts.
 
 A popup simulates the data arriving into the server.
 
